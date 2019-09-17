@@ -1,0 +1,25 @@
+{
+  "name": "food-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-shrikant/food-recipes.git"
+  },
+  "author": "prashant-shrikant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-shrikant/food-recipes/issues"
+  },
+  "homepage": "https://github.com/prashant-shrikant/food-recipes#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
