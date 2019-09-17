@@ -1,1 +1,7 @@
+.build
+.dynamodb
+.serverless
+.webpack
+node_modules
+.env
 .DS_Store
